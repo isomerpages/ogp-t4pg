@@ -2,4 +2,5 @@ collections:
   roles:
     output: true
     order:
+      - Data Engineer.md
       - Software Engineer.md
