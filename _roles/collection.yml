@@ -3,6 +3,5 @@ collections:
     output: true
     order:
       - Software Engineer.md
-      - folder-page.md
       - example-subfolder/.keep
       - example-subfolder/subfolder-page.md
