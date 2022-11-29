@@ -4,10 +4,10 @@ title: Tech for Public Good
 description: An Isomer site of the Singapore Government
 image: /images/isomer-logo.svg
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
   - hero:
-      title: Hero title
+      title: Tech for Public Good
       subtitle: Hero subtitle
       background: /images/hero-banner.png
       button: Contact Us
@@ -29,5 +29,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
-
