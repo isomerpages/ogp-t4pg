@@ -2,6 +2,6 @@ collections:
   roles:
     output: true
     order:
-      - UX Designer.md
-      - Data Engineer.md
       - Software Engineer.md
+      - Data Engineer.md
+      - UX Designer.md
