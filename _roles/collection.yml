@@ -2,11 +2,11 @@ collections:
   roles:
     output: true
     order:
-      - Tech Policy Analyst.md
-      - Cybersecurity Professional.md
-      - Project Manager.md
-      - Data Scientist and Data Analyst.md
-      - Product Manager.md
       - Software Engineer.md
       - Data Engineer.md
+      - Product Manager.md
       - UX Designer.md
+      - Data Scientist and Data Analyst.md
+      - Project Manager.md
+      - Cybersecurity Professional.md
+      - Tech Policy Analyst.md
