@@ -29,6 +29,8 @@ sections:
             url: /roles/cybersecurity
           - title: Tech Policy Analyst
             url: /roles/tech-policy-analyst
+          - title: Other roles
+            url: /roles/other
   - infopic:
       title: 📬
       description: Join our mailing list to receive updates on roles and events!
