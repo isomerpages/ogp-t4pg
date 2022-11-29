@@ -30,9 +30,9 @@ sections:
           - title: Tech Policy Analyst
             url: /roles/tech-policy-analyst
   - infopic:
-      title: Keep in touch
+      title: 📬
       description: Join our mailing list to receive updates on roles and events!
-      button: Sign Up
+      button: Keep me posted
       url: https://go.gov.sg/buildforpublicgood
       alt: Sign up
 ---
