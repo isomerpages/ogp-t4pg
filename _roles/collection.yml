@@ -2,6 +2,7 @@ collections:
   roles:
     output: true
     order:
+      - Cybersecurity Professional.md
       - Project Manager.md
       - Data Scientist and Data Analyst.md
       - Product Manager.md
