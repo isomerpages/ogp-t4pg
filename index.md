@@ -10,23 +10,29 @@ sections:
       title: Tech for Public Good
       subtitle: Join us to build a better Singapore
       background: /images/hero-banner.png
-      button: Contact Us
-      url: /contact-us/
-      key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      dropdown:
+        title: I am a...
+        options:
+          - title: Software Engineer
+            url: ""
+          - title: Data Engineer
+            url: ""
+          - title: Product Manager
+            url: ""
+          - title: UX Designer
+            url: ""
+          - title: Data Scientist or Analyst
+            url: ""
+          - title: Project Manager
+            url: ""
+          - title: Cybersecurity Professional
+            url: ""
+          - title: Tech Policy Analyst
+            url: ""
+  - infopic:
+      title: Keep in touch
+      description: Get on our mailing list to get updates and upcoming events!
+      button: Sign Up
+      url: https://go.gov.sg/buildforpublicgood
+      alt: Sign up
 ---
-
