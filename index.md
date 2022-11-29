@@ -31,7 +31,7 @@ sections:
             url: /roles/tech-policy-analyst
   - infopic:
       title: Keep in touch
-      description: Get on our mailing list to get updates and upcoming events!
+      description: Join our mailing list to receive updates on roles and events!
       button: Sign Up
       url: https://go.gov.sg/buildforpublicgood
       alt: Sign up
