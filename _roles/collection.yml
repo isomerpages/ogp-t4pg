@@ -1,5 +1,5 @@
 collections:
-  i-am-a:
+  roles:
     output: true
     order:
       - Software Engineer.md
