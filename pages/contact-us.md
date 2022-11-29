@@ -7,6 +7,6 @@ contacts:
   - content:
       - phone: ""
       - email: ""
-      - other: https://go.gov.sg/buildforpublicgood
+      - other: Sign up <a href="https://go.gov.sg/buildforpublicgood">here</a>
     title: Mailing List
 ---
