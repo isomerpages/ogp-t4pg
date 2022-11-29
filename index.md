@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Tech for Public Good
-      subtitle: Hero subtitle
+      subtitle: Join us to build a better Singapore
       background: /images/hero-banner.png
       button: Contact Us
       url: /contact-us/
