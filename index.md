@@ -14,21 +14,21 @@ sections:
         title: I am a...
         options:
           - title: Software Engineer
-            url: ""
+            url: /roles/software-engineer
           - title: Data Engineer
-            url: ""
+            url: /roles/data-engineer
           - title: Product Manager
-            url: ""
+            url: /roles/product-manager
           - title: UX Designer
-            url: ""
+            url: /roles/ux-designer
           - title: Data Scientist or Analyst
-            url: ""
+            url: /roles/data-scientist-analyst
           - title: Project Manager
-            url: ""
+            url: /roles/project-manager
           - title: Cybersecurity Professional
-            url: ""
+            url: /roles/cybersecurity
           - title: Tech Policy Analyst
-            url: ""
+            url: /roles/tech-policy-analyst
   - infopic:
       title: Keep in touch
       description: Get on our mailing list to get updates and upcoming events!
