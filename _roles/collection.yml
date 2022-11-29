@@ -2,7 +2,6 @@ collections:
   roles:
     output: true
     order:
-      - Other roles.md
       - Software Engineer.md
       - Data Engineer.md
       - Product Manager.md
@@ -11,3 +10,4 @@ collections:
       - Project Manager.md
       - Cybersecurity Professional.md
       - Tech Policy Analyst.md
+      - Other roles.md
