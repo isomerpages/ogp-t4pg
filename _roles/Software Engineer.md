@@ -6,23 +6,15 @@ description: Write code? Join us to build tech for the public good!
 ![](/images/Software%20engineer.png)
 
 #### [Open Government Products](https://opengovernmentproducts.recruitee.com/#section-89477)
-
 #### [Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/careers)
-
 #### [Agency for Science, Technology and Research](https://careers.a-star.edu.sg/)
-
-#### Central Provident Fund Board
-
-#### Centre for Strategic Infocomm Technologies
-
-#### Civil Aviation Authority of Singapore 
-
-#### Civil Service College
-
-
-#### Defence Science Technology Agency
-#### Digital and Intelligence Service
-#### Economic Development Board
+#### [Central Provident Fund Board](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/12845731/005056a3-d347-1edd-96ba-60f63d86c8ff)
+#### [Centre for Strategic Infocomm Technologies](https://www.csit.gov.sg/join-us/careers)
+#### [Civil Aviation Authority of Singapore ](https://www.caas.gov.sg/who-we-are/careers)
+#### [Civil Service College](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/12784994/005056A3-53E2-1EED-91FB-4422BFE89B63)
+#### [Defence Science Technology Agency](https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers)
+#### [Digital and Intelligence Service](http://www.discareers.gov.sg/)
+#### [Economic Development Board](https://careers.edb.gov.sg/en/job/4002255/senior-data-engineer-31-year-contract)
 #### Energy Market Authority
 #### Government Technology Agency
 #### Health Promotion Board
