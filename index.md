@@ -37,4 +37,5 @@ sections:
       button: Keep me posted
       url: https://go.gov.sg/buildforpublicgood
       alt: Sign up
+      image: /images/Stay updated_Alt.png
 ---
