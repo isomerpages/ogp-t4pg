@@ -2,8 +2,8 @@ title: Tech for Public Good
 url: https://techhiring.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#276ef1"
-  secondary-color: "#000000"
+  primary-color: "#000000"
+  secondary-color: "#276ef1"
   media-colors:
     - title: media-color-one
       color: "#49759a"
