@@ -27,7 +27,6 @@ description: Write code? Join us to build tech for the public good!
 #### [Jurong Town Council Corporation](https://www.linkedin.com/jobs/view/3344032743/?capColoOverride=true)
 #### [Land Transport Authority](https://www.linkedin.com/jobs/view/3344032743/?capColoOverride=true)
 #### [Maritime and Port Authority](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/MPA-mTower-Block/Engineer---Senior-Engineer--Statistics---Data-Systems-_JR-10000013605)
-#### [Ministry of Communications and Information]
 #### [Ministry of Finance](https://www.mof.gov.sg/who-we-are/careers/is-mof-the-right-place-for-me)
 #### [National Environment Agency](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=informatics#/JobDescription/12219027/005056a3-d347-1edd-99aa-fe3dde5cac2d)
 #### [National Library Board](https://www.nlb.gov.sg/main/about-us/careers)
