@@ -2,4 +2,5 @@ collections:
   test:
     output: true
     order:
+      - Sub test/examplepagetitle.md
       - Sub test/.keep
