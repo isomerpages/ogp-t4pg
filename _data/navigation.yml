@@ -2,3 +2,5 @@ logo: /images/isomer-logo.svg
 links:
   - title: Roles
     collection: roles
+  - title: Info Sessions
+    url: /infosessions
