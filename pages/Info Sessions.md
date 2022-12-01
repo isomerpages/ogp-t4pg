@@ -5,11 +5,10 @@ description: Information sessions on tech roles in government
 ---
 ![infosessions](/images/infosessions.png) 
 
-Want to learn about how you can join the government to build a better Singapore? Join the upcoming information sessions to find out more about the government’s ongoing Tech for Public Good initiative. Sign up now at [go.gov.sg/techforpublicgood](http://go.gov.sg/techforpublicgood)
+Want to learn about how you can join the government to build a better Singapore? Join the upcoming information sessions to find out more about the government’s ongoing Tech for Public Good initiative. Sign up now at [go.gov.sg/techforpublicgood](https://go.gov.sg/techforpublicgood)
 
 Note: You may sign up for more than one session. While all sessions are hybrid, in-person slots will be granted on a first-come-first-serve basis. Thus if you have a selected an in-person session, we will contact you to confirm whether you have reserved an in-person slot. (There is no limit to virtual attendees.)
 
-**\[Thursday, 1 December, 7-8:30pm\] [Disrupting HealthCare](https://us02web.zoom.us/webinar/register/WN_YMy5Gt5CRP2sFtKMGMJ92g) \-** Hear how OGP is using tech to improve healthcare in Singapore, and how tech can help address some of the biggest public good problems, from healthcare to scams to security.
 
 **\[Wednesday, 7 December, 5:30-7pm\]** **[Intro to OGP](https://go.gov.sg/techforpublicgood) \-** Learn about Open Government Products and what it’s like to work in roles such as engineering, design, and product management at OGP.
 
