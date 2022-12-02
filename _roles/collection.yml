@@ -2,8 +2,8 @@ collections:
   roles:
     output: true
     order:
-      - Infra and DevOps.md
       - Software Engineer.md
+      - Infra and DevOps.md
       - Product Manager.md
       - Project Manager.md
       - UX Designer.md
