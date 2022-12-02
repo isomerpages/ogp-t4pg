@@ -21,4 +21,38 @@ Note: You may sign up for more than one session. While all sessions are hybrid, 
 
 Look forward to seeing you at one of the information sessions and do look out for more updates in the coming days.
 
-https://form.gov.sg/6385d58c3cc4d700128fb5d1
+
+#### Register today!
+<br> 
+<div
+  style="
+    font-family: Sans-Serif;
+    font-size: 15px;
+    color: #000;
+    opacity: 0.9;
+    padding-top: 5px;
+    padding-bottom: 8px;
+  "
+>
+  If the form below is not loaded, you can also fill it in at
+  <a href="https://form.gov.sg/6385d58c3cc4d700128fb5d1">here</a>.
+</div>
+
+<!-- Change the width and height values to suit you best -->
+<iframe
+  id="iframe"
+  src="https://form.gov.sg/6385d58c3cc4d700128fb5d1"
+  style="width: 100%; height: 1000px"
+></iframe>
+
+<div
+  style="
+    font-family: Sans-Serif;
+    font-size: 12px;
+    color: #999;
+    opacity: 0.5;
+    padding-top: 5px;
+  "
+>
+  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
+</div>
