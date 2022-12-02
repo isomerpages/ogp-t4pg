@@ -3,7 +3,6 @@ title: Info Sessions
 permalink: /infosessions/
 description: Information sessions on tech roles in government
 ---
-
 ![infosessions](/images/infosessions.png) 
 
 Want to learn about how you can join the government to build a better Singapore? Join the upcoming information sessions to find out more about the government’s ongoing Tech for Public Good initiative. Sign up now at [go.gov.sg/techforpublicgood](https://go.gov.sg/techforpublicgood)
@@ -21,3 +20,5 @@ Note: You may sign up for more than one session. While all sessions are hybrid, 
 *   **\[Thursday, 15 December, 7-9pm\] [Corporate and Policy Roles](https://go.gov.sg/techforpublicgood)** \- From marketing, HR, and ops to policy - how you can create space and push for change for tech in government
 
 Look forward to seeing you at one of the information sessions and do look out for more updates in the coming days.
+
+https://form.gov.sg/6385d58c3cc4d700128fb5d1
