@@ -52,5 +52,5 @@ sections:
       description: Learn about Open Government Products and what it’s like to work in
         roles such as engineering, design, and product management at OGP.
       button: Find our more
-      url: www.google.com
+      url: /infosessions/
 ---
