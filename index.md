@@ -40,15 +40,6 @@ sections:
       url: https://go.gov.sg/buildforpublicgood
       alt: Sign up
       image: /images/Stay updated_Alt.png
-  - infopic:
-      title: OGP has been listed as a Great Place To Work!
-      subtitle: Did you know?
-      button: Learn more about OGP
-      alt: Image alt text
-      url: https://opengovernmentproducts.recruitee.com/#section-89477
-      description: Join the team behind products such as FormSG, RedeemSG, the
-        ScamShield App, and the COVID Vaccination Appointment Booking System.
-      image: /images/gptw_certified_badge_SG_Aug-2022-Aug-2023_RGB-300x512.jpg
   - infobar:
       title: "Upcoming Info Session: Intro to OGP"
       subtitle: Wednesday 7 Dec 5:30-7pm
