@@ -2,7 +2,7 @@
 layout: homepage
 title: Tech for Public Good
 description: Join us to build a better Singapore
-image: /images/isomer-logo.svg
+image: /images/Logo_Alt.png
 permalink: /
 notification: ""
 sections:
@@ -45,3 +45,4 @@ sections:
       button: Button Text
       alt: Image alt text
 ---
+
