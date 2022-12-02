@@ -6,7 +6,7 @@ description: Join us to build tech for public good!
 ##### Here's a list of agencies hiring for security teams! 
 
 #### [Maritime and Port Authority](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/MPA-mTower-Block/Engineer---Senior-Engineer--Statistics---Data-Systems-_JR-10000013605)
-#### [National Library Board](https://www.nlb.gov.sg/main/about-us/careers)
+#### [National Library Board](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers?Agency=27bc56da9e6a012ad85768800407b009&Job_Family_Group=27bc56da9e6a01598012e66f50087e59)
 #### [National Parks Board](https://www.nparks.gov.sg/about-us/careers)
 #### [Ngee Ann Polytechnic](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/12036255/005056a3-53e2-1edd-9ac6-30cfb4d0a223)
 #### [Public Utilites Board](https://www.pub.gov.sg/careers)
