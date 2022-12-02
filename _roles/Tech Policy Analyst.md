@@ -3,6 +3,8 @@ title: Tech Policy Analyst
 permalink: /roles/tech-policy-analyst/
 description: Join us to build tech for public good!
 ---
+![](/images/Tech%20policy%20analyst.png)
+
 ##### Here's a list of agencies hiring for policy teams! 
 
 #### [Government Technology Agency](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09&Job_Family_Group=27bc56da9e6a01598012e66f50087e59)
