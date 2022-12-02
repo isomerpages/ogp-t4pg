@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Software Engineer.md
+      - Infra and DevOps.md
       - Product Manager.md
       - Project Manager.md
       - UX Designer.md
       - Data Engineer.md
       - Data Scientist and Data Analyst.md
-      - Infra and DevOps.md
       - Cybersecurity Professional.md
       - Tech Policy Analyst.md
       - Other Roles.md
