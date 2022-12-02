@@ -47,7 +47,7 @@ sections:
       button: Button Text
       alt: Image alt text
   - infobar:
-      title: "Upcoming Info session: Intro to OGP"
+      title: "Upcoming Info Session: Intro to OGP"
       subtitle: Wednesday 7 Dec 5:30-7pm
       description: Learn about Open Government Products and what it’s like to work in
         roles such as engineering, design, and product management at OGP.
