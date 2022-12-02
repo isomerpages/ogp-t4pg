@@ -4,8 +4,7 @@ permalink: /roles/data-scientist-analyst/
 description: Join us to build tech for public good!
 ---
 ![](/images/Data%20scientist%20and%20data%20analyst.png)
-
-##### Here's a list of agencies hiring for data teams! 
+<br> **Here's a list of agencies hiring for data teams!**
 
 #### [Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/careers)
 #### [Agency for Science, Technology and Research](https://careers.a-star.edu.sg/)
