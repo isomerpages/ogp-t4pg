@@ -1,32 +1,50 @@
 ---
 layout: homepage
-title: Isomer Site
-description: Brief site description here
-image: /images/isomer-logo.svg
+title: Tech for Public Good
+description: Join us to build a better Singapore
+image: /images/Logo_Alt.png
 permalink: /
-notification: Here's a notification bar you can use!
+notification: ""
 sections:
-    - hero:
-        title: Hero title
-        subtitle: Hero subtitle
-        background: /images/hero-banner.png
-        button: Contact Us
-        url: /contact-us/
-        key_highlights:
-            - title: Highlight A
-              description: Important highlight A is important
-              url: https://google.com
-            - title: Highlight B
-              description: Important highlight B is equally important
-              url: https://gmail.com
-            - title: Page A
-              description: Page A is important too
-              url: /privacy/
-    - infobar:
-        title: Infobar title
-        subtitle: Subtitle
-        description: About a sentence worth of description here
-        button: Button text
-        url: /faq/
+  - hero:
+      title: Tech for Public Good
+      subtitle: Join us to build a better Singapore
+      background: /images/Hero banner_No people.png
+      dropdown:
+        title: I am a...
+        options:
+          - title: Software Engineer
+            url: /roles/software-engineer
+          - title: Infra and DevOps Engineer
+            url: /roles/infra-devops/
+          - title: Product Manager
+            url: /roles/product-manager
+          - title: Project Manager
+            url: /roles/project-manager
+          - title: UX Designer
+            url: /roles/ux-designer
+          - title: Data Engineer
+            url: /roles/data-engineer
+          - title: Data Scientist or Analyst
+            url: /roles/data-scientist-analyst
+          - title: Cybersecurity Professional
+            url: /roles/cybersecurity
+          - title: Tech Policy Analyst
+            url: /roles/tech-policy-analyst
+          - title: Other Roles
+            url: /roles/others
+  - infopic:
+      title: 📬
+      description: Join our mailing list to receive updates on roles and events!
+      button: Keep me posted
+      url: https://go.gov.sg/buildforpublicgood
+      alt: Sign up
+      image: /images/Stay updated_Alt.png
+  - infobar:
+      title: "Upcoming Info Session: Intro to OGP"
+      subtitle: Wednesday 7 Dec 5:30-7pm
+      description: Learn about Open Government Products and what it’s like to work in
+        roles such as engineering, design, and product management at OGP.
+      button: Find out more
+      url: /infosessions/
 ---
-

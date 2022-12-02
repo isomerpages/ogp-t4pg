@@ -1,15 +1,8 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/Logo_Alt.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: Roles
+    collection: roles
+  - title: Info Sessions
+    url: /infosessions/
+  - title: Vacancies
+    url: https://docs.google.com/spreadsheets/d/1KrW1MW8wqbporu07W8P4lZInvhwBeEByNMKBVNwrdMc/edit#gid=1663607937
