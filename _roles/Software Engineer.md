@@ -3,9 +3,8 @@ title: Software Engineer
 permalink: /roles/software-engineer/
 description: Write code? Join us to build tech for the public good!
 ---
-![](/images/Software%20engineer.png)
-
-##### Here's a list of agencies hiring for engineering teams! 
+![](/images/Software%20engineer.png) 
+<br> **Here's a list of agencies hiring for engineering teams!**
 
 #### [Open Government Products](https://opengovernmentproducts.recruitee.com/#section-89477)
 #### [Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/careers)
