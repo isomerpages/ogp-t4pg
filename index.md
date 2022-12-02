@@ -15,6 +15,8 @@ sections:
         options:
           - title: Software Engineer
             url: /roles/software-engineer
+          - title: Infra and DevOps Engineer
+            url: /roles/infra-devops/
           - title: Product Manager
             url: /roles/product-manager
           - title: Project Manager
@@ -31,8 +33,6 @@ sections:
             url: /roles/tech-policy-analyst
           - title: Other Roles
             url: /roles/others
-          - title: Infra and DevOps Professional
-            url: www.google.com
   - infopic:
       title: 📬
       description: Join our mailing list to receive updates on roles and events!
