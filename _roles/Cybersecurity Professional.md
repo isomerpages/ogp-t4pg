@@ -3,6 +3,8 @@ title: Cybersecurity Professional
 permalink: /roles/cybersecurity/
 description: Join us to build tech for public good!
 ---
+![](/images/Cybersecurity%20professional.png)
+
 ##### Here's a list of agencies hiring for security teams! 
 
 #### [Maritime and Port Authority](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers/job/MPA-mTower-Block/Engineer---Senior-Engineer--Statistics---Data-Systems-_JR-10000013605)
