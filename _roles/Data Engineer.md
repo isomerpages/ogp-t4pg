@@ -4,8 +4,7 @@ permalink: /roles/data-engineer/
 description: Wrangle data? Join us to build tech for public good!
 ---
 ![](/images/Data%20engineer.png)
-
-##### Here's a list of agencies hiring for data engineering teams! 
+<br> **Here's a list of agencies hiring for data engineering teams!**
 
 #### [Agency for Science, Technology and Research](https://careers.a-star.edu.sg/)
 #### [Digital and Intelligence Service](http://www.discareers.gov.sg/)
