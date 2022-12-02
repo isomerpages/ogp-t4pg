@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Software Engineer.md
-      - Data Engineer.md
       - Product Manager.md
-      - UX Designer.md
-      - Data Scientist and Data Analyst.md
       - Project Manager.md
+      - UX Designer.md
+      - Data Engineer.md
+      - Data Scientist and Data Analyst.md
       - Cybersecurity Professional.md
       - Tech Policy Analyst.md
       - Other Roles.md
