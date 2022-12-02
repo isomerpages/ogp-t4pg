@@ -42,8 +42,7 @@ sections:
       image: /images/Stay updated_Alt.png
   - infopic:
       title: OGP's been listed as a great place to work!
-      subtitle: Infopic Subtitle
-      description: Infopic description
+      subtitle: Did you know?
       button: Learn more about OGP
       alt: Image alt text
       url: https://www.open.gov.sg
