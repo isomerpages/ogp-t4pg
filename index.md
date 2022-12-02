@@ -9,7 +9,7 @@ sections:
   - hero:
       title: Tech for Public Good
       subtitle: Join us to build a better Singapore
-      background: /images/Hero banner.png
+      background: /images/Hero banner2.png
       dropdown:
         title: I am a...
         options:
