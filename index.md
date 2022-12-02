@@ -41,11 +41,12 @@ sections:
       alt: Sign up
       image: /images/Stay updated_Alt.png
   - infopic:
-      title: OGP's been listed as a great place to work
+      title: OGP's been listed as a great place to work!
       subtitle: Infopic Subtitle
       description: Infopic description
-      button: Button Text
+      button: Learn more about OGP
       alt: Image alt text
+      url: https://www.open.gov.sg
   - infobar:
       title: "Upcoming Info Session: Intro to OGP"
       subtitle: Wednesday 7 Dec 5:30-7pm
