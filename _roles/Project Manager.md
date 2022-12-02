@@ -3,6 +3,8 @@ title: Project Manager
 permalink: /roles/project-manager/
 description: Join us to build tech for public good!
 ---
+![](/images/Project%20manager.png)
+
 ##### Here's a list of agencies hiring for project management teams! 
 
 #### [Accounting and Corporate Regulatory Authority](https://www.acra.gov.sg/careers)
