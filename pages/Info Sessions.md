@@ -3,7 +3,7 @@ title: Info Sessions
 permalink: /infosessions/
 description: Information sessions on tech roles in government
 ---
-![infosessions](/images/infosessions.png) 
+![infosessions](/images/infosessions.png) ![New Info Sessions]()
 
 Want to learn about how you can join the government to build a better Singapore? Join the upcoming information sessions to find out more about the government’s ongoing Tech for Public Good initiative. Sign up now at [go.gov.sg/techforpublicgood](https://go.gov.sg/techforpublicgood)
 
