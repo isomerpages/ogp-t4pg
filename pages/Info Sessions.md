@@ -15,9 +15,11 @@ Note: You may sign up for more than one session. While all sessions are hybrid, 
 **\[Week of 12-15 December\]** **\- Sessions on tech roles across the public sector**
 
 *   **\[Monday, 12 December, 7-9pm\] [Engineering for Impact](https://go.gov.sg/techforpublicgood)** \- How software engineers can build solutions to the most impactful problems in Singapore
+*   **\[Monday, 12 December, 7-9pm\] [Scaling Cybersecurity](https://form.gov.sg/6389c50527058800113331b1)** \- How GovTech addresses cyber challenges at scale for WOG.
 *   **\[Tuesday, 13 December, 7-9pm\]** **[Designing for All](https://go.gov.sg/techforpublicgood)** \- How product designers can design public services for impact across the government.
 *   **\[Wednesday, 14 December, 7-9pm\] [Product Management in Government](https://go.gov.sg/techforpublicgood)** \- How PM’s can create and operationalise a vision for a better Singapore
 *   **\[Thursday, 15 December, 7-9pm\] [Corporate and Policy Roles](https://go.gov.sg/techforpublicgood)** \- From marketing, HR, and ops to policy - how you can create space and push for change for tech in government
+*   **\[Friday, 16 December, 7-9pm\] [Know Your Data](https://form.gov.sg/6389c5386903f50012ee55ef)** \- Next generation data intelligence and governance
 
 Look forward to seeing you at one of the information sessions and do look out for more updates in the coming days.
 
