@@ -3,6 +3,7 @@ title: Infra and DevOps Engineer
 permalink: /roles/infra-devops/
 description: Work on infrastructure? Join us to build tech for public good!
 ---
+![](/images/Infra%20and%20DevOps%20Engineer.png)
 <br> **Here's a list of agencies hiring for infrastructure and developer operations teams!**
 
 #### [Centre for Strategic Infocomm Technologies](https://www.csit.gov.sg/join-us/careers)
