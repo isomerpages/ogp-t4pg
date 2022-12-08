@@ -33,13 +33,6 @@ sections:
             url: /roles/tech-policy-analyst
           - title: Other Roles
             url: /roles/others
-  - infopic:
-      title: 📬
-      description: Join our mailing list to receive updates on roles and events!
-      button: Keep me posted
-      url: https://go.gov.sg/buildforpublicgood
-      alt: Sign up
-      image: /images/Stay updated_Alt.png
   - infobar:
       title: 6 talks, 5 days
       subtitle: 12-15 December
@@ -48,4 +41,11 @@ sections:
         in the upcoming week!
       button: Find out more
       url: /infosessions/
+  - infopic:
+      title: 📬
+      description: Join our mailing list to receive updates on roles and events!
+      button: Keep me posted
+      url: https://go.gov.sg/buildforpublicgood
+      alt: Sign up
+      image: /images/Stay updated_Alt.png
 ---
