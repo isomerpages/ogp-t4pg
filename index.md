@@ -41,10 +41,11 @@ sections:
       alt: Sign up
       image: /images/Stay updated_Alt.png
   - infobar:
-      title: "Upcoming Info Session: Intro to OGP"
-      subtitle: Wednesday 7 Dec 5:30-7pm
-      description: Learn about Open Government Products and what it’s like to work in
-        roles such as engineering, design, and product management at OGP.
+      title: 6 talks, 5 days
+      subtitle: 12-15 December
+      description: Come listen to talks on how the government approaches engineering,
+        cybersecurity, design, product management, corporate & policy, and data
+        in the upcoming week!
       button: Find out more
       url: /infosessions/
 ---
