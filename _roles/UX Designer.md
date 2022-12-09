@@ -4,17 +4,8 @@ permalink: /roles/ux-designer/
 description: Design user experiences? Join us to build tech for public good!
 ---
 ![](/images/UX%20Designer.png)
-<br> **Here's a list of agencies hiring for design teams!**
+##### Here's a list of agencies hiring for design teams!
+<br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeIHN2edATjW8zRU5HgoQ6UxtXEYtoeYa1PE2epVh4OlWr0fKP419IZieULRuMXWtNi5lseklG5br/pubhtml?gid=1332525065&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="1000"></iframe>
 
-#### [Infocomm Media Development Authority](https://www.imda.gov.sg/About-IMDA/Careers-at-IMDA)
-#### [Land Transport Authority](https://www.linkedin.com/jobs/view/3344032743/?capColoOverride=true)
-#### [National Library Board](https://www.nlb.gov.sg/main/about-us/careers)
-#### [Ngee Ann Polytechnic](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/12036255/005056a3-53e2-1edd-9ac6-30cfb4d0a223)
-#### [Open Government Products](https://opengovernmentproducts.recruitee.com/#section-89477)
-#### [Singapore Army](https://go.gov.sg/joinarmy)
-#### [Singapore Food Agency](https://www.sfa.gov.sg/careers)
-#### [Singapore Prisons](https://www.sps.gov.sg/careers/)
-#### [Singapore Tourism Board](https://www.linkedin.com/jobs/view/3197655931)
-#### [SkillsFuture Singapore](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html?search-keyword=SSG#/JobDescription/12625872/005056a3-53e2-1eed-97c9-bc5c7d5b59d2)
-
-<br> Don't see a relevant role here? <br> Drop us a note using [this link](https://go.gov.sg/techforpublicgood) and we'll get back to you shortly.
+<br> Don't see your relevant role here? <br> [Drop us a note](https://go.gov.sg/techforpublicgood) and we'll get back to you shortly.
