@@ -2,6 +2,7 @@ collections:
   roles:
     output: true
     order:
+      - Tech Leads.md
       - Software Engineer.md
       - Infra and DevOps Engineer.md
       - Product Manager.md
