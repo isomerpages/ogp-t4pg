@@ -44,7 +44,7 @@ Look forward to seeing you at one of the information sessions and do look out fo
 <iframe
   id="iframe"
   src="https://form.gov.sg/6385d58c3cc4d700128fb5d1"
-  style="width: 100%; height: 1000px"
+  style="width: 100%; height: 600px"
 ></iframe>
 
 <div
