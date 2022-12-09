@@ -4,12 +4,8 @@ permalink: /roles/tech-policy-analyst/
 description: Join us to build tech for public good!
 ---
 ![](/images/Tech%20policy%20analyst.png)
-<br> **Here's a list of agencies hiring for policy teams!**
+##### Here's a list of agencies hiring for policy teams!
+<br>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRKeIHN2edATjW8zRU5HgoQ6UxtXEYtoeYa1PE2epVh4OlWr0fKP419IZieULRuMXWtNi5lseklG5br/pubhtml?gid=420130671&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600"></iframe>
 
-#### [Government Technology Agency](https://sggovterp.wd102.myworkdayjobs.com/PublicServiceCareers?Agency=27bc56da9e6a01dcff9491800407da09&Job_Family_Group=27bc56da9e6a01598012e66f50087e59)
-#### [Ministry of Communication](https://www.careers.hrp.gov.sg/sap/bc/ui5_ui5/sap/ZGERCFA004/index.html#/JobDescription/12912064/005056a3-53e2-1edd-9bde-dcf4d960e526)
-#### [Monetary Authority of Singapore](https://www.mas.gov.sg/careers)
-#### [National Library Board](https://sggovterp.wd102.myworkdayjobs.com/en-US/PublicServiceCareers?Agency=27bc56da9e6a012ad85768800407b009&Job_Family_Group=27bc56da9e6a01598012e66f50087e59)
-#### [Singapore Food Agency](https://www.sfa.gov.sg/careers)
-
-<br> Don't see a relevant role here? <br> Drop us a note using [this link](https://go.gov.sg/techforpublicgood) and we'll get back to you shortly.
+<br> Don't see your relevant role here? <br> [Drop us a note](https://go.gov.sg/techforpublicgood) and we'll get back to you shortly.

@@ -13,6 +13,8 @@ sections:
       dropdown:
         title: I am a...
         options:
+          - title: Tech Lead
+            url: /roles/tech-lead/
           - title: Software Engineer
             url: /roles/software-engineer
           - title: Infra and DevOps Engineer
