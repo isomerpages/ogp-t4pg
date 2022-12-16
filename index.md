@@ -45,8 +45,8 @@ sections:
       url: /infosessions/
   - infopic:
       title: 📬
-      description: Join our mailing list to receive updates on roles and events!
-      button: Keep me posted
+      description: Send us your CV to share directly with agency hiring managers.
+      button: Sign me up
       url: https://go.gov.sg/buildforpublicgood
       alt: Sign up
       image: /images/Stay updated_Alt.png
