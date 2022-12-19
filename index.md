@@ -41,10 +41,12 @@ sections:
       button: Submit CV
       url: https://go.gov.sg/buildforpublicgood
       image: /images/Stay updated_Alt.png
+      alt: stay updated
   - infopic:
       title: 💬
       description: Hear from officers about how it's like working in the public sector
       button: info session recap
       url: /infosession
       image: /images/tfpg_infosession.jpg
+      alt: tfpg info session
 ---
