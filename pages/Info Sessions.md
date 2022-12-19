@@ -9,4 +9,4 @@ It's a wrap! We held 5 Tech for Public Good hiring info sessions, with 450 in-pe
   
 **▶️ Watch the session recaps here:**
 
-<iframe width="800" height="500" src="https://www.youtube.com/embed/videoseries?list=PLTH8_3Fv0EecEoBpXPygZa82BENpeHCJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTH8_3Fv0EecEoBpXPygZa82BENpeHCJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
