@@ -35,14 +35,6 @@ sections:
             url: /roles/tech-policy-analyst
           - title: Other Roles
             url: /roles/others
-  - infobar:
-      title: 6 talks, 5 days
-      subtitle: 12-15 December
-      description: Come listen to talks on how the government approaches engineering,
-        cybersecurity, design, product management, corporate & policy, and data
-        in the upcoming week!
-      button: Find out more
-      url: /infosessions/
   - infopic:
       title: 📬
       description: Send us your CV to share directly with agency hiring managers.
