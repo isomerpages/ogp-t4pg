@@ -35,13 +35,12 @@ sections:
             url: /roles/tech-policy-analyst
           - title: Other Roles
             url: /roles/others
-  - infopic:
-      title: 📁
-      description: Submit your CV so it can be shared directly with agency hiring managers
+  - infobar:
+      title: 📨
+      description: Submit your CV to us so that it can be shared directly with agency
+        hiring managers!
       button: Submit CV
       url: https://go.gov.sg/buildforpublicgood
-      image: /images/Stay updated_Alt.png
-      alt: stay updated
   - infopic:
       title: 💬
       description: Hear from officers about how it's like working in the public sector
