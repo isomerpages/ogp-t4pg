@@ -41,12 +41,4 @@ sections:
       button: Submit my documents
       url: https://go.gov.sg/buildforpublicgood
       image: /images/Stay updated_Alt.png
-  - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: <iframe width="560" height="315"
-        src="https://www.youtube.com/embed/videoseries?list=PLTH8_3Fv0EecEoBpXPygZa82BENpeHCJU"
-        title="YouTube video player" frameborder="0" allow="accelerometer;
-        autoplay; clipboard-write; encrypted-media; gyroscope;
-        picture-in-picture" allowfullscreen></iframe>
 ---
