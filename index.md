@@ -37,8 +37,8 @@ sections:
             url: /roles/others
   - infopic:
       title: 📁
-      description: Have a CV to share? Send it directly to agency hiring managers!
-      button: Submit my documents
+      description: Submit your CV so it can be shared directly with agency hiring managers
+      button: Submit CV
       url: https://go.gov.sg/buildforpublicgood
       image: /images/Stay updated_Alt.png
 ---
