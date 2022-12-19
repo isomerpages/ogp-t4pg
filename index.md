@@ -36,18 +36,24 @@ sections:
           - title: Other Roles
             url: /roles/others
   - infobar:
-      title: 6 talks, 5 days
-      subtitle: 12-15 December
-      description: Come listen to talks on how the government approaches engineering,
-        cybersecurity, design, product management, corporate & policy, and data
-        in the upcoming week!
-      button: Find out more
-      url: /infosessions/
-  - infopic:
-      title: 📬
-      description: Join our mailing list to receive updates on roles and events!
-      button: Keep me posted
+      title: 📨
+      description: Submit your CV so that it can be shared directly with agency hiring
+        managers
+      button: Submit CV
       url: https://go.gov.sg/buildforpublicgood
-      alt: Sign up
-      image: /images/Stay updated_Alt.png
+  - infopic:
+      title: 💬
+      description: Hear from officers about how it's like working in the public sector
+        in our info session recap
+      button: Watch the videos
+      url: /infosessions
+      image: /images/tfpg_infosession.jpg
+      alt: tfpg info session
+  - infopic:
+      title: 💼
+      description: Browse over 700 roles across 60+ ministries and agencies
+      button: See all Roles
+      url: /roles/tech-lead/
+      image: /images/agencies.png
+      alt: Image alt text
 ---
