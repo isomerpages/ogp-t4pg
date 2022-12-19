@@ -15,7 +15,6 @@ Want to learn about how you can join the government to build a better Singapore?
 **\[Week of 12-15 December\]** **\- Sessions on tech roles across the public sector**
 
 *   **\[Monday, 12 December, 7-9pm\] [Engineering for Impact](https://go.gov.sg/techforpublicgood)** \- How software engineers can build solutions to the most impactful problems in Singapore
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTH8_3Fv0EecEoBpXPygZa82BENpeHCJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 *   **\[Monday, 12 December, 7-9pm\] [Scaling Cybersecurity](https://form.gov.sg/6389c50527058800113331b1)** \- How GovTech addresses cyber challenges at scale for WOG. 
 *   **\[Tuesday, 13 December, 7-9pm\]** **[Designing for All](https://go.gov.sg/techforpublicgood)** \- How product designers can design public services for impact across the government.
 *   **\[Wednesday, 14 December, 7-9pm\] [Product Management in Government](https://go.gov.sg/techforpublicgood)** \- How PM’s can create and operationalise a vision for a better Singapore
