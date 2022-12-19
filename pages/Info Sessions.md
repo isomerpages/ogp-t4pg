@@ -22,3 +22,5 @@ Want to learn about how you can join the government to build a better Singapore?
 *   **\[Friday, 16 December, 7-9pm\] [Know Your Data](https://form.gov.sg/6389c5386903f50012ee55ef)** \- Next generation data intelligence and governance
 
 Look forward to seeing you at one of the information sessions and do look out for more updates in the coming days.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTH8_3Fv0EecEoBpXPygZa82BENpeHCJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
