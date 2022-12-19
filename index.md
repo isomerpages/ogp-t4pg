@@ -46,7 +46,7 @@ sections:
       title: 💬
       description: Hear from officers about how it's like working in the public sector
       button: info session recap
-      url: /infosession
+      url: /infosessions
       image: /images/tfpg_infosession.jpg
       alt: tfpg info session
 ---
