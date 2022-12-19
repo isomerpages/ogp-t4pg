@@ -15,46 +15,11 @@ Want to learn about how you can join the government to build a better Singapore?
 **\[Week of 12-15 December\]** **\- Sessions on tech roles across the public sector**
 
 *   **\[Monday, 12 December, 7-9pm\] [Engineering for Impact](https://go.gov.sg/techforpublicgood)** \- How software engineers can build solutions to the most impactful problems in Singapore
-*   **\[Monday, 12 December, 7-9pm\] [Scaling Cybersecurity](https://form.gov.sg/6389c50527058800113331b1)** \- How GovTech addresses cyber challenges at scale for WOG.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLTH8_3Fv0EecEoBpXPygZa82BENpeHCJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*   **\[Monday, 12 December, 7-9pm\] [Scaling Cybersecurity](https://form.gov.sg/6389c50527058800113331b1)** \- How GovTech addresses cyber challenges at scale for WOG. 
 *   **\[Tuesday, 13 December, 7-9pm\]** **[Designing for All](https://go.gov.sg/techforpublicgood)** \- How product designers can design public services for impact across the government.
 *   **\[Wednesday, 14 December, 7-9pm\] [Product Management in Government](https://go.gov.sg/techforpublicgood)** \- How PM’s can create and operationalise a vision for a better Singapore
 *   **\[Thursday, 15 December, 7-9pm\] [Corporate and Policy Roles](https://go.gov.sg/techforpublicgood)** \- From marketing, HR, and ops to policy - how you can create space and push for change for tech in government
 *   **\[Friday, 16 December, 7-9pm\] [Know Your Data](https://form.gov.sg/6389c5386903f50012ee55ef)** \- Next generation data intelligence and governance
 
 Look forward to seeing you at one of the information sessions and do look out for more updates in the coming days.
-
-
-#### Register today!
-<br> 
-<div
-  style="
-    font-family: Sans-Serif;
-    font-size: 15px;
-    color: #000;
-    opacity: 0.9;
-    padding-top: 5px;
-    padding-bottom: 8px;
-  "
->
-  If the form below is not loaded, you can also fill it in at
-  <a href="https://form.gov.sg/6385d58c3cc4d700128fb5d1">here</a>.
-</div>
-
-<!-- Change the width and height values to suit you best -->
-<iframe
-  id="iframe"
-  src="https://form.gov.sg/6385d58c3cc4d700128fb5d1"
-  style="width: 100%; height: 600px"
-></iframe>
-
-<div
-  style="
-    font-family: Sans-Serif;
-    font-size: 12px;
-    color: #999;
-    opacity: 0.5;
-    padding-top: 5px;
-  "
->
-  Powered by <a href="https://form.gov.sg" style="color: #999">Form</a>
-</div>
