@@ -3,7 +3,7 @@ title: Info Sessions
 permalink: /infosessions/
 description: Information sessions on tech roles in government
 ---
-![infosessions](/images/tfpg_infosession.png) 
+![infosessions](/images/tfpg_infosession.jpg) 
 
 It's a wrap! We held 5 Tech for Public Good hiring info sessions, with 450 in-person and online attendees, and over 20 agencies participating in the panel, networking, and online Q&A segments. We loved the enthusiasm from all of you, and look forward to having you join the public sector in building tech for public good.  
   
