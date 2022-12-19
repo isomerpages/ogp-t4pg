@@ -38,13 +38,14 @@ sections:
   - infobar:
       title: 📨
       description: Submit your CV to us so that it can be shared directly with agency
-        hiring managers!
+        hiring managers
       button: Submit CV
       url: https://go.gov.sg/buildforpublicgood
   - infopic:
       title: 💬
       description: Hear from officers about how it's like working in the public sector
-      button: info session recap
+        in our info session recap
+      button: Watch the video
       url: /infosessions
       image: /images/tfpg_infosession.jpg
       alt: tfpg info session
