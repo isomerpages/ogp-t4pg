@@ -36,7 +36,7 @@ sections:
           - title: Other Roles
             url: /roles/others
   - infopic:
-      title: 📬
+      title: 📁
       description: Have a CV to share? Send it directly to agency hiring managers!
       button: Submit my documents
       url: https://go.gov.sg/buildforpublicgood
