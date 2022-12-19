@@ -49,4 +49,11 @@ sections:
       url: /infosessions
       image: /images/tfpg_infosession.jpg
       alt: tfpg info session
+  - infopic:
+      title: 💼
+      description: We are hiring 700+ roles in over 60 ministries and agencies
+      button: browse roles
+      url: /roles/tech-lead/
+      image: /images/hiring agencies.png
+      alt: Image alt text
 ---
