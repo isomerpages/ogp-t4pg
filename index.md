@@ -54,6 +54,6 @@ sections:
       description: Browse over 700 roles across 60+ ministries and agencies
       button: See all Roles
       url: /roles/tech-lead/
-      image: /images/hiring agencies.png
+      image: /images/agencies.png
       alt: Image alt text
 ---
