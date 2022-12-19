@@ -45,7 +45,7 @@ sections:
       title: 💬
       description: Hear from officers about how it's like working in the public sector
         in our info session recap
-      button: Watch videos
+      button: Watch the videos
       url: /infosessions
       image: /images/tfpg_infosession.jpg
       alt: tfpg info session
