@@ -51,8 +51,8 @@ sections:
       alt: tfpg info session
   - infopic:
       title: 💼
-      description: We are hiring 700+ roles in over 60 ministries and agencies
-      button: browse roles
+      description: Browse over 700 roles across 60+ ministries and agencies
+      button: Roles
       url: /roles/tech-lead/
       image: /images/hiring agencies.png
       alt: Image alt text
