@@ -17,7 +17,7 @@ description: ""
     padding-bottom: 8px;
   "
 >
-  If the form below is not loaded, you can also fill it in at
+  If the form below doesn't load, you can also fill it in 
   <a href="https://form.gov.sg/6379df7d2a40e20012dd2cc8">here</a>.
 </div>
 
