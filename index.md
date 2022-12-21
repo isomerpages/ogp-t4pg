@@ -1,7 +1,9 @@
 ---
 layout: homepage
-title: Tech for Public Good
-description: Join us to build a better Singapore
+title: Tech for Public Good | Hiring for Singapore Government | Tech Jobs
+description: Open Government Products is hiring software engineers, product
+  managers, and designers to build a better Singapore. See all open job roles
+  here.
 image: /images/Logo_Alt.png
 permalink: /
 notification: ""
@@ -56,3 +58,4 @@ sections:
       image: /images/agencies.png
       alt: Image alt text
 ---
+
