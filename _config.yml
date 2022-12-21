@@ -1,4 +1,4 @@
-title: Tech for Public Good
+title: Tech for Public Good | Hiring for Singapore Government | Tech Jobs
 url: https://techhiring.open.gov.sg
 favicon: /images/Favicon.png
 colors:
@@ -15,7 +15,9 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Join us to build a better Singapore
+description: Open Government Products is hiring software engineers, product
+  managers, and designers to build a better Singapore. See all open job roles
+  here.
 permalink: none
 baseurl: ""
 exclude:
