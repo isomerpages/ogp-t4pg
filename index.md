@@ -43,8 +43,8 @@ sections:
       url: https://go.gov.sg/buildforpublicgood
   - infopic:
       title: 💬
-      description: Hear from officers about how it's like working in the public sector
-        in our info session recap
+      description: Hear from officers about what it's like working in the public
+        sector in our info session recap
       button: Watch the videos
       url: /infosessions
       image: /images/tfpg_infosession.jpg
