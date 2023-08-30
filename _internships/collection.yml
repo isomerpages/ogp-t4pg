@@ -1,0 +1,5 @@
+collections:
+  internships:
+    output: true
+    order:
+      - All roles.md
