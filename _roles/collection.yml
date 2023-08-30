@@ -2,7 +2,6 @@ collections:
   roles:
     output: true
     order:
-      - Internships.md
       - Tech Lead.md
       - Software Engineer.md
       - Infra and DevOps Engineer.md
@@ -13,4 +12,5 @@ collections:
       - Data Scientist and Data Analyst.md
       - Cybersecurity Professional.md
       - Tech Policy Analyst.md
+      - Internships.md
       - Other Roles.md
