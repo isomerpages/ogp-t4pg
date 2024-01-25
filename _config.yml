@@ -1,0 +1,60 @@
+title: Tech for Public Good | Hiring for Singapore Government | Tech Jobs
+url: https://techhiring.open.gov.sg
+favicon: /images/Favicon.png
+colors:
+  primary-color: "#000000"
+  secondary-color: "#276ef1"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+description: Open Government Products is hiring software engineers, product
+  managers, and designers to build a better Singapore. See all open job roles
+  here.
+permalink: none
+baseurl: ""
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+include:
+  - _redirects
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+paginate: 12
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+staging: https://staging.d11wkt9glkkxqi.amplifyapp.com
+prod: https://master.d11wkt9glkkxqi.amplifyapp.com
+shareicon: /images/Logo_Alt.png
+is_government: true
+facebook-pixel: ""
+google_analytics: UA-251501246-2
+linkedin-insights: ""
