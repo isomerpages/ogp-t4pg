@@ -37,11 +37,6 @@ sections:
             url: /roles/tech-policy-analyst
           - title: Other Roles
             url: /roles/others
-  - infobar:
-      title: 📨
-      description: Submit your CV so it can be shared directly with agency hiring managers
-      button: Submit CV
-      url: https://go.gov.sg/buildforpublicgood
   - infopic:
       title: 💬
       description: Hear from officers about what it's like working in the public
@@ -52,10 +47,9 @@ sections:
       alt: tfpg info session
   - infopic:
       title: 💼
-      description: Browse over 700 roles across 60+ ministries and agencies
-      button: See all Roles
-      url: /roles/tech-lead/
+      description: Search for jobs in the Singapore Public Service
+      button: Careers@Gov
+      url: careers.gov.sg
       image: /images/agencies.png
       alt: Image alt text
 ---
-
