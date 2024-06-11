@@ -15,9 +15,8 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-description: Open Government Products is hiring software engineers, product
-  managers, and designers to build a better Singapore. See all open job roles
-  here.
+description: "The Singapore Public Service is hiring software engineers, product
+  managers, and designers to build a better Singapore. "
 permalink: none
 baseurl: ""
 exclude:
@@ -58,3 +57,4 @@ is_government: true
 facebook-pixel: ""
 google_analytics: UA-251501246-2
 linkedin-insights: ""
+google_analytics_ga4: ""
