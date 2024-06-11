@@ -1,8 +1,8 @@
 ---
 layout: homepage
 title: Tech for Public Good | Hiring for Singapore Government | Tech Jobs
-description: "The Singapore Public Service is hiring software engineers, product
-  managers, and designers to build a better Singapore. "
+description: The Singapore Public Service is hiring software engineers, product
+  managers, and designers to build a better Singapore.
 image: /images/Logo_Alt.png
 permalink: /
 notification: ""
@@ -23,7 +23,7 @@ sections:
       title: 💼
       description: Search for jobs in the Singapore Public Service
       button: Careers@Gov
-      url: careers.gov.sg
+      url: https://careers.gov.sg
       image: /images/agencies.png
       alt: Image alt text
 ---
